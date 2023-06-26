@@ -1,0 +1,11 @@
+#cart{
+    transition: right 0.2s ease-in;
+}
+
+.open-cart {
+    right: 0;
+}
+
+.close-cart {
+    right: -40vw;
+}
